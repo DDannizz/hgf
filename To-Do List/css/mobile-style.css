@@ -1,0 +1,39 @@
+@media only screen and (min-width : 240px) and (max-width :568px){
+    
+    
+.header{
+        display: block;
+        background: #622f72;
+        height: auto;
+        width: 100%;
+        overflow: hidden;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 100%;
+}
+
+.header input{
+    width: auto;
+    float: center;
+    overflow: hidden;
+}
+
+.btn{
+    float: center;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#myList{
+    display: block;
+    float: center;
+}
+
+ul li{
+   margin: 20px;
+   width: auto;
+   
+}
+}
